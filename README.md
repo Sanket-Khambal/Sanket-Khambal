@@ -28,43 +28,43 @@ I thrive in environments where data meets automation, and where innovative model
 
   <!-- Cloud -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="aws" width="40" height="40"/>
   </a> 
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-1.svg" alt="azure" width="40" height="40"/>
   </a> 
 
   <!-- Data Engineering -->
   <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/apache-airflow.svg" alt="airflow" width="40" height="40"/>
   </a>
   <a href="https://dbt.com" target="_blank" rel="noreferrer">
-    <img src="https://dbt.com/static/images/dbt-logo-stacked.png" alt="dbt" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/dbt.svg" alt="dbt" width="40" height="40"/>
   </a> 
   <a href="https://snowflake.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="snowflake" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/snowflake-4.svg" alt="snowflake" width="40" height="40"/>
   </a> 
   <a href="https://spark.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/spark-original.svg" alt="spark" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/apache-spark.svg" alt="spark" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="kafka" width="40" height="40"/>
   </a>
 
   <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/>
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/>
   </a> 
 
   <!-- ML & DL -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/>
   </a> 
   <a href="https://pytorch.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/pytorch.svg" alt="pytorch" width="40" height="40"/>
   </a> 
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
@@ -72,21 +72,21 @@ I thrive in environments where data meets automation, and where innovative model
 
   <!-- Visualization -->
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
   </a> 
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" alt="powerbi" width="40" height="40"/>
   </a> 
 
   <!-- Dev Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
   </a> 
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/>
   </a> 
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/terraform.svg" alt="terraform" width="40" height="40"/>
   </a> 
 </p>
 
