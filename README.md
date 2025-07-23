@@ -1,29 +1,21 @@
 ![MasterHead](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
-# Hi, I'm Sanket Khambal 👋
+<h1 align="center">Hi 👋, I'm Sanket Khambal</h1>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Sanket-Khambal.Sanket-Khambal)
+<h2 align="center">I specialize in data engineering, machine learning, and data analytics, transforming raw data into impactful insights and intelligent systems. </h2>
 
-<table>
-  <tr>
-    <td>
-      <p>
-        👋 Hi there! I'm Sanket, a Data Engineer passionate about data pipelines, machine learning, and all things automation. I enjoy building scalable systems that transform raw data into actionable insights.
-      </p>
-      <p>
-        🔭 I’m currently working on projects involving Azure Databricks, Snowflake, and Airflow orchestration.
-      </p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="250" alt="data gif">
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc5NG40cTJ1aTlrMHE2cWptMG1lcXhqZWIzM2t2aHNhazJ3dmIxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 
+<h4>Python developer passionate about data pipelines, machine learning, and all things automation. I enjoy building scalable systems that transform raw data into actionable insights.</h4>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanket-Khambal&label=Profile%20views&color=0e75b6&style=flat" alt="Sanket" /> </p>
+<h2 align=left>📚 What I’m Learning & Exploring</h2>
 
----
+- Advanced cloud-native data architectures  
+- Automated data quality and testing frameworks    
+- Real-time streaming data processing  
+- Deepening knowledge in data engineering  
 
-## 🔧 Skills & Tools:
+<h2 align='left'>Skills and Tools</h2>
 
 <p align="left">
   <!-- Programming Languages -->
@@ -96,22 +88,10 @@
   </a> 
 </p>
 
-
----
-
-## 📚 What I’m Learning & Exploring
-
-- Advanced cloud-native data architectures  
-- Automated data quality and testing frameworks    
-- Real-time streaming data processing  
-- Deepening knowledge in data engineering  
-
-## 📫 Let’s Connect!
-
-I’m always eager to connect with fellow data professionals and learn from the community. Feel free to reach out!
+<h2 align=left>📫 Let’s Connect!</h2>
 
 - 📧 khambalsanket3@gmail.com  
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/sanket-khambal/](https://www.linkedin.com/in/sanket-khambal-34416b207/))  
 
----
+
 
