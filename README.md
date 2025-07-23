@@ -3,10 +3,23 @@
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Sanket-Khambal.Sanket-Khambal)
 
-I’m a data enthusiast with a passion for building scalable data pipelines, crafting machine learning solutions, and delivering insightful analytics.  
-With a background in Information Systems and hands-on experience across data engineering, ML, and data analysis, I focus on turning complex data into actionable intelligence that drives better business outcomes.
+<table>
+  <tr>
+    <td>
+      <p>
+        👋 Hi there! I'm Sanket, a Data Engineer passionate about data pipelines, machine learning, and all things automation. I enjoy building scalable systems that transform raw data into actionable insights.
+      </p>
+      <p>
+        🔭 I’m currently working on projects involving Azure Databricks, Snowflake, and Airflow orchestration.
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="250" alt="data gif">
+    </td>
+  </tr>
+</table>
 
-I thrive in environments where data meets automation, and where innovative models meet real-world challenges. Whether it’s designing end-to-end ETL workflows, optimizing data lakes, or developing predictive models, I enjoy the process of making data work smarter.
+
 
 ---
 
