@@ -10,18 +10,14 @@ I thrive in environments where data meets automation, and where innovative model
 
 ---
 
-## 🔧 Skills & Tools
-
-### Languages and Tools:
+## 🔧 Skills & Tools:
 
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
-  <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/sql.svg" alt="sql" width="40" height="40"/>
-  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
@@ -37,15 +33,12 @@ I thrive in environments where data meets automation, and where innovative model
   <!-- Data Engineering -->
   <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
-  </a>
-  <a href="https://dbt.com" target="_blank" rel="noreferrer">
-    <img src="https://dbt.com/static/images/dbt-logo-stacked.png" alt="dbt" width="40" height="40"/>
   </a> 
   <a href="https://snowflake.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="snowflake" width="40" height="40"/>
-  </a> 
+    <img src="https://img.icons8.com/?size=100&id=Mvbzy3ZDRcVj&format=png&color=000000" alt="snowflake" width="40" height="40"/>
+  </a>
   <a href="https://spark.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/spark-original.svg" alt="spark" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
@@ -72,10 +65,10 @@ I thrive in environments where data meets automation, and where innovative model
 
   <!-- Visualization -->
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="40" height="40"/>
   </a> 
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="powerbi" width="40" height="40"/>
   </a> 
 
   <!-- Dev Tools -->
@@ -90,21 +83,16 @@ I thrive in environments where data meets automation, and where innovative model
   </a> 
 </p>
 
+
 ---
 
 ## 📚 What I’m Learning & Exploring
 
-- Advanced cloud-native data architectures (Lakehouse, Delta Lake)  
-- Automated data quality and testing frameworks  
-- Scalable ML model deployment and monitoring  
+- Advanced cloud-native data architectures  
+- Automated data quality and testing frameworks    
 - Real-time streaming data processing  
-- Deepening knowledge in reinforcement learning and explainable AI  
+- Deepening knowledge in data engineering  
 
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket-Khambal&show_icons=true&locale=en&layout=compact" alt="Sanket" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanket-Khambal&show_icons=true&locale=en" alt="Sanket" /></p>
----
 ## 📫 Let’s Connect!
 
 I’m always eager to connect with fellow data professionals and learn from the community. Feel free to reach out!
